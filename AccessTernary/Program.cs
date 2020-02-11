@@ -16,7 +16,7 @@ namespace AccessTernary {
             var order2 = new Order { Amount = 2000, Customer = cust2 };
         }
         static int cubed(int nbr) {
-            return nbr * nbr * nbr;
+             return nbr * nbr * nbr;
         }
     }
 }
